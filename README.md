@@ -1,24 +1,7 @@
 # tfjs_demo
 
-## Project setup
-```
-npm install
-```
+Tensorflow.js demo
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+跟着[视频](https://www.bilibili.com/video/BV1Pg4y187c4)写的
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Vue + Vuetify + tfjs
